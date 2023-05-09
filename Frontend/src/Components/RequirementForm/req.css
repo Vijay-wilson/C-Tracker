@@ -1,0 +1,16 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+
+.table{
+    
+  margin-top: 3%;
+  margin-left: -5%;
+  width: 40%;
+}
+.mycontainer{
+  height: 40rem;
+  margin-left: 17rem;
+}

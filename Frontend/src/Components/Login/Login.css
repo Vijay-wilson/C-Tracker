@@ -1,0 +1,87 @@
+
+
+
+
+
+.heading1 {
+    color: rgb(12, 76, 238);
+    font-weight: bold;
+  }
+  .section1 {
+ 
+    color: #707682;
+  }
+  
+  
+  .container1 {
+    background-color: white;
+    border: 1px solid rgb(249, 249, 249);
+    box-shadow: 0px 2px 27px rgba(10, 10, 10, 0.25);
+    border-radius: 10px;
+    padding: 1.5rem;
+    width: 26em;
+    /* margin-top: 4%; */
+    margin-left: -45%;
+  }
+  
+  .btn {
+    margin-top: 2rem;
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+  
+  .linktosignin {
+    text-align: center;
+  }
+  
+  .background-image {
+    position: absolute;
+    margin-left: 40%;
+    height: calc(100% + 50px);
+    width: 70%;
+    background-image: url("../Login/signup.png");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* z-index: -1; */
+  }
+  
+  .table {
+    padding: 20px;
+    margin-top: 3%;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .mycontainer {
+    background-color: white;
+    border: 1px solid rgb(249, 249, 249);
+    box-shadow: 0px 2px 27px rgba(10, 10, 10, 0.25);
+    border-radius: 10px;
+    padding: 1.5rem;
+    width: 26em;
+    margin-top: 2.5%;
+    margin-left: 37%;
+  }
+  /* .imagehome {
+    position: absolute;
+    margin-left: 40%;
+    height: calc(100% + 50px);
+    width: 70%;
+    margin-top: 10%;
+    background-image: url("../public/Home.png");
+    background-repeat: no-repeat;
+  } */
+  
+  .my_container h1 {
+    margin-left: -50%;
+    font-size: 290%;
+    font-weight: 700;
+    margin-top: -10%;
+    color: green;
+  }
+  
+  .scontainer p {
+    margin-left: -40%;
+    margin-top: 18%;
+    font-size: 110%;
+    font-weight: 550;
+  }
